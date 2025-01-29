@@ -29,10 +29,3 @@ type Books = {
 type Data = {
     name: string
 }
-
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:FedoRich-P/next-js-introduction.git
-git push -u origin main
